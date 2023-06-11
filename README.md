@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @msal86
 - 👀 I’m interested in Programming, Software architect and Front-end Development
-- 🌱 I’m currently learning and working in JavaScript, ReactJs, ReactNative
+- 🌱 I’m currently learning and working in JavaScript, ReactJs, NextJs, ReactNative, Redux Toolkit, Material UI, Tailwind CSS
 - 💞️ I’m looking to collaborate on Frontend development.
 - 📫 How to reach me
 -   Email: muhammadshahid.ms95@gmail.com
